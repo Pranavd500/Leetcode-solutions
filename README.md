@@ -16,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [2784-check-if-array-is-good](https://github.com/Pranavd500/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0424-longest-repeating-character-replacement](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Sorting
 |  |
 | ------- |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
