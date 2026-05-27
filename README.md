@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0767-reorganize-string](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0767-reorganize-string) |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0207-course-schedule) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
