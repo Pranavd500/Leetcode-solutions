@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [2784-check-if-array-is-good](https://github.com/Pranavd500/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 ## Dynamic Programming
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Greedy
 |  |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 ## Linked List
 |  |
 | ------- |
