@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Pranavd500/Leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0146-lru-cache) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Pranavd500/Leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Pranavd500/Leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Database
 |  |
 | ------- |
