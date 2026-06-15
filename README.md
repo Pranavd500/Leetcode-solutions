@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0146-lru-cache) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pranavd500/Leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Pranavd500/Leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pranavd500/Leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Pranavd500/Leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Database
 |  |
