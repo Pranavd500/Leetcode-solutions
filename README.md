@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [1840-maximum-building-height](https://github.com/Pranavd500/Leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [2784-check-if-array-is-good](https://github.com/Pranavd500/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pranavd500/Leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Pranavd500/Leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0767-reorganize-string) |
+| [1840-maximum-building-height](https://github.com/Pranavd500/Leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [2784-check-if-array-is-good](https://github.com/Pranavd500/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 ## Divide and Conquer
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1840-maximum-building-height](https://github.com/Pranavd500/Leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pranavd500/Leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Two Pointers
 |  |
