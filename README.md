@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0046-permutations](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -156,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
