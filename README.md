@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -163,4 +164,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
