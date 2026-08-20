@@ -1,24 +1,12 @@
 class Solution:
-    def subsets(self, nums):
-        result = []
-        subset = []
-
-        def dfs(index):
-
-            # Reached the end
-            if index == len(nums):
-                result.append(subset[:])   # copy
-                return
-
-            # Include current number
-            subset.append(nums[index])
-            dfs(index + 1)
-
-            # Backtrack
-            subset.pop()
-
-            # Exclude current number
-            dfs(index + 1)
-
-        dfs(0)
+    def subsets(self, nums: List[int]) -> List[List[int]]:
+        result=[]  
+        def backtrack(index,current):
+            result.append(current.copy())
+            for i in range(index, len(nums)):
+                current.append(nums[i])
+                backtrack(i+1,current)
+                current.pop()
+        backtrack(0,[])
         return result
+
