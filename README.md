@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0518-coin-change-ii](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0739-daily-temperatures](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [1288-remove-covered-intervals](https://github.com/Pranavd500/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1840-maximum-building-height](https://github.com/Pranavd500/Leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [2784-check-if-array-is-good](https://github.com/Pranavd500/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pranavd500/Leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0767-reorganize-string) |
+| [1288-remove-covered-intervals](https://github.com/Pranavd500/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1840-maximum-building-height](https://github.com/Pranavd500/Leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [2784-check-if-array-is-good](https://github.com/Pranavd500/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 ## Divide and Conquer
