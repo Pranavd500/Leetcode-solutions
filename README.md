@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0888-fair-candy-swap](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0997-find-the-town-judge](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0997-find-the-town-judge) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pranavd500/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1288-remove-covered-intervals](https://github.com/Pranavd500/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1840-maximum-building-height](https://github.com/Pranavd500/Leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [2784-check-if-array-is-good](https://github.com/Pranavd500/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0888-fair-candy-swap](https://github.com/Pranavd500/Leetcode-solutions/tree/master/0888-fair-candy-swap) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pranavd500/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Linked List
 |  |
 | ------- |
